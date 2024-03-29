@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Patrickyoutubes/SUPGUYS/main/Protected_8132306967117438.lua"))()
+getgenv().RTX_Name = "Evening lite" 
+loadstring(game:HttpGet(('https://pastefy.app/xXkUxA0P/raw'),true))()
